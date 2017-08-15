@@ -1,14 +1,14 @@
 # CRUD-gradebook
 
-## How to run the code : 
-1. Download the zip CRUD-Gradebook-panmol.
+## How to run the code
+1. git clone https://github.com/palakanmol31/CRUD-gradebook
 2. Import the zip file on Netbeans. 
 3. Clean and build and run the server .
 4. Clean and build and run the client. 
 5. Make sure student id is in string. Student id and task is required to do crud operations around the resource.
 
 
-## Test Cases : 
+## Test Cases 
 
 1.  Create – Select Instructor and tap create radio button. 
 1) 201 , CREATED -  Add id and select a work task,then tap submit . 
